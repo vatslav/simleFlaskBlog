@@ -1,0 +1,4 @@
+simleFlaskBlog
+==============
+
+по мотивам wikibooks
